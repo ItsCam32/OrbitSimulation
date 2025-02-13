@@ -1,8 +1,10 @@
-<h1>Orbit Simulation (Unity)</h1>
+<h1>Orbit Simulation</h1>
 
 <h2>Description</h2>
-This orbit simulation uses Isaac Newton's law of universal gravitation to accurately (to a reasonable level) simulate the orbit of all of the planets in our solar system from a "top" down perspective in Unity 3D, as well as provide insightful facts and statistics about each orbital body.
-<br />
+This orbit simulation uses Isaac Newton's law of universal gravitation to accurately (to a reasonable level) simulate the orbit of all of the planets in our solar system from a "top" down perspective, as well as provide insightful facts and statistics about each orbital body.
+<br>
+<br>
+<b>Simulated in the Unity engine.</b>
 
 <h2>Media</h2>
 
